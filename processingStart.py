@@ -3,7 +3,7 @@
 
 # MIT License
 
-# Copyright (c) 2019 Pipin Fitriadi
+# Copyright (c) 2021 BoniW
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -24,11 +24,9 @@
 # SOFTWARE.
 
 """
-Implementasi sederhana RESTful API menggunakan Flask.
-Flask harus terlebih dahulu diinstal di komputer.
+Implementasi sederhana image processing RESTful API menggunakan Flask.
+Flask harus terlebih dahulu diinstal di komputer / server.
 SQLite digunakan untuk contoh sederhana penyimpanan ke database.
-Dibuat oleh Pipin Fitriadi (email: pipinfitriadi@gmail.com),
-pada tanggal 28 Februari 2019.
 """
 import json
 import sqlite3
